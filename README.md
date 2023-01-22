@@ -1,27 +1,91 @@
-Hola! soy Pablo, tengo 32 años. Vivo en la provincia del Chaco, Argentina.
-Soy FullStack Developer y Licenciado en Kinesiología y Fisiatría (ejerciendo medio tiempo).
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-En el año 2022 comencé a estudiar programación Web y me gradué en el Bootcamp de Soyhenry.
-También me gradué en el programa Informatorio dictado por la Subsecretaria de Empleo del Chaco, y continúo con el programa ONE (Oracle Next Education) de Alura Latam.
+### <div align="center">Soy Pablo Swistoniuk, Desarrollador FullStack con ansias de comenzar en el mercado laboral IT👨‍💻</div>  
+  
 
-Mi objetivo a corto plazo es seguir perfeccionándome para poder introducirme en el mercado Laboral IT de la mejor manera posible. 
+- 👣Actualmente trabajo como Kinesiólogo (Fisioterapeuta) medio tiempo.  
+  
 
-Antes del objetivo a largo plazo tengo que decir que mi deseo es recorrer Argentina y luego el resto del mundo, y eh visto en la programación una ventana para poder alcanzarlo.
-Sin conocer nada sobre programación pensé en estudiar para conseguir una forma de trabajar y viajar al mismo tiempo. Como programador me di cuenta de la herramienta que adquirí para brindar infinidad de soluciones a las personas. 
-Es por eso que mi objetivo a largo plazo es ampliar mis conocimientos y poder transmitirlos para que más personas puedan tener las oportunidades que yo tengo hoy en día.
+- 🌱Egresado del Bootcamp SoyHenry y estudiante autodidacta.  
+  
 
-Tengo conocimientos en las siguientes tecnologías:
-- JavaScript
-    Frontend: React y Redux.
-    Backend: NodeJS y Express. 
-    Base de datos: Sequelize ORM con PostgreSQL.
-- Python 
-    Backend: Django
-    Base de datos:  MySQL
-- HTML y CSS.
-- GIT Y GITHUB.
-- Librerías: 
-    Nodemailer (gestor de mail)
-    Auth0 (autentificación de con Gmail)
-    Chakra ui (estilos)
-    Stripe (pasarela de pagos)
+- Escala de preferencias de trabajo❓ 
+Remoto (alta prioridad), Semi-Presencial (según lugar de trabajo), Presencial (según lugar de trabajo, salario y posibilidad de capacitación extra)  
+  
+
+- ⚡ Dato Curioso: "Soy piloto de karting"  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/pablo-swistoniuk-0b15a6247" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Pabloswis" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/pablo.swistoniuk" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pabloswis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
