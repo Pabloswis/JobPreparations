@@ -1,6 +1,3 @@
-# JobPreparations
-
-
 Hola! soy Pablo, tengo 32 años. Vivo en la provincia del Chaco, Argentina.
 Soy FullStack Developer y Licenciado en Kinesiología y Fisiatría (ejerciendo medio tiempo).
 
