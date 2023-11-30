@@ -3,21 +3,15 @@
 </div>  
   
 
-### <div align="center">Soy Pablo Swistoniuk, Desarrollador FullStack con ansias de comenzar en el mercado laboral IT👨‍💻</div>  
+### <div align="center">Soy Pablo Swistoniuk, Licenciado en Kinesiología y FullStack Developer 👨‍💻</div>  
   
+Actualmente, me dedico 100% a proyectos Freelance que me permiten crecer profesionalmente como desarrollador. En este rol, enfrento desafíos constantes, desde la resolución de bugs hasta la implementación de nuevas funcionalidades y modificaciones en aplicaciones de terceros. 
 
-- 👣Actualmente trabajo como Kinesiólogo (Fisioterapeuta) medio tiempo.  
-  
+Soy un profesional comprometido con la calidad y la fluidez de cada tarea, disfruto trabajando en equipo y poseo habilidades de comunicación efectiva y colaboración.
 
-- 🌱Egresado del Bootcamp SoyHenry y estudiante autodidacta.  
-  
-
-- Escala de preferencias de trabajo❓ 
-Remoto (alta prioridad), Semi-Presencial (según lugar de trabajo), Presencial (según lugar de trabajo, salario y posibilidad de capacitación extra)  
-  
-
-- ⚡ Dato Curioso: "Soy piloto de karting"  
-  
+Estoy buscando oportunidades para formar parte de un equipo de IT donde pueda crecer profesionalmente guiado por expertos y contribuir con mis habilidades.
+ 
+ 
 
 <br/>  
 
